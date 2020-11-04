@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Welcome to ReactJS.</p>
+        <p>Now working on the 'feature' branch.</p>
         <p>Test your docker skills</p>
         <a href="https://s.ghozt.nl">learn react</a>
       </header>
